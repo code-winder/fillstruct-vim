@@ -1,2 +1,2 @@
 " -- fillstruct
-command! -nargs=0 FillStruct call fillstruct#FillStruct()
+command! -nargs=0 GoFillStruct call fillstruct#FillStruct()
