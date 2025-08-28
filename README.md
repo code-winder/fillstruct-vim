@@ -21,5 +21,5 @@ Plug 'code-winder/go-fillstruct-vim'
 ## usage
 
 ```
-:FillStruct
+:GoFillStruct
 ```
